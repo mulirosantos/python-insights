@@ -1,0 +1,14 @@
+# [Aula 02] -> Python Insights - Analisando dados com Python
+
+**Necessário** instalar o jupyter no vscode
+arquivos .ipynb
+
+## Passo a Passo
+
+    *[PASSO 01]: Importar base de dados
+    *[PASSO 01]: Visualizar base de dados
+        * entender quais infos tenho disponiveis
+        * procurar problemas da base de dados
+    *[PASSO 03]: Corrrigr os problemas da base de dados
+    *[Passo 04]: Análise de cancelamentos
+    *[PASSO 05]: Análise das causas dos cancelamentos dos clientes
